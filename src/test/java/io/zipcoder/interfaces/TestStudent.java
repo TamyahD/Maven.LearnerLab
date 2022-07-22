@@ -1,9 +1,6 @@
 package io.zipcoder.interfaces;
 
 import org.junit.Test;
-
-import java.util.Objects;
-
 import static org.junit.Assert.*;
 
 public class TestStudent {
